@@ -1,2 +1,2 @@
 # practic
-# yandex-praktikum-projects
+
